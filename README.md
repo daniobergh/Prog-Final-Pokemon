@@ -25,7 +25,7 @@ This analysis demonstrates:
 4. **Correlation Matrix (Heatmap):** An overview of how defensive and offensive traits co-vary.
 
 *Descriptive & Inferential Statistics*
-- **Descriptive Profile:** A summary of the top 8 most frequent Pokémon types revealed significant variance in traits:
+*A summary of the top 8 most frequent Pokémon types revealed significant variance in traits:
 1. Speed: Electric-type Pokémon exhibited the highest average speed (*M* = 87.2, *SD* = 24.0), while Grass-types were the slowest among the top groups (*M* = 60.3).
 2. Overall Power: Rock-type Pokémon showed the highest overall composite score (*M* = 314), despite having lower average speed than many other groups.
 
