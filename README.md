@@ -29,7 +29,7 @@ This analysis demonstrates:
 1. Speed: Electric-type Pokémon exhibited the highest average speed (*M* = 87.2, *SD* = 24.0), while Grass-types were the slowest among the top groups (*M* = 60.3).
 2. Overall Power: Rock-type Pokémon showed the highest overall composite score (*M* = 314), despite having lower average speed than many other groups.
 
-- **Statistical Analysis:**
+*Statistical Analysis:*
 1. Combat Trade-offs: Pearson's product-moment correlation confirmed a **significant** positive relationship between Attack and Defense stats (*r* = 0.44, *p* < .001). This suggests that offensive and defensive capabilities tend to scale together within the ecosystem.
 2. Physical Constraints: Scatter plot analysis of Weight vs. Speed (log-transformed) confirms a negative trend, supporting the hypothesis that increased mass is generally associated with decreased speed.
 3. Group Comparison: The density plots revealed that "Fighting" types have a more skewed distribution toward higher Attack values compared to "Psychic" types.
